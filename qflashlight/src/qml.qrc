@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>qml/main.qml</file>
+        <file>qml/concent/Main.qml</file>
+        <file>qml/concent/MainForm.ui.qml</file>
+        <file>qml/concent/MessageBox.qml</file>
+    </qresource>
+</RCC>
