@@ -3,7 +3,7 @@ TEMPLATE = subdirs
 CONFIG += ordered
 
 SUBDIRS += \
-	qflashlight	\
+	qflashlight/src	\
   #  qsorganizer \
 	
 #SUBDIRS += build
