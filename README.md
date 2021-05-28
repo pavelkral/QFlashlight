@@ -1,4 +1,4 @@
-#Qt Android
+#Qt Flashlight app for Android
 
 
 
