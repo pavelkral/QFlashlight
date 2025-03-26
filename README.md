@@ -1,4 +1,4 @@
-# Qt Flashlight app for Android
+# Qt Flashlight app for mobile devices
 
 
 
